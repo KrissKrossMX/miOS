@@ -76,3 +76,7 @@ qemu-system-i386 -cdrom miOS-v0.3.iso
 ## Licencia
 
 Por definir.
+
+## Primer imagen del sistema
+
+![miOS ejecutándose en VMware](Captura de pantalla 2026-10-11 005531.png)
