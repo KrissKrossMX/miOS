@@ -79,4 +79,4 @@ Por definir.
 
 ## Primer imagen del sistema
 
-![miOS ejecutándose en VMware](Captura de pantalla 2026-10-11 005531.png)
+<img src="Captura de pantalla 2026-10-11 005531.png" alt="miOS ejecutándose" width="600">
